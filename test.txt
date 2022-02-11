@@ -1,0 +1,10 @@
+25
+Baloon KAARIS 2 3 23
+Baloon ORELSAN 1 8 66
+JetPlane BOOBA 23 44 32
+Helicopter SADEK 654 33 20
+Helicopter NEKFEU 22 33 44
+Helicopter LAFOUINE 98 68 99
+Baloon ZIAC 102 22 34
+JetPlane NISKA 11 99 768
+Helicopter NINHO 223 23 54
